@@ -3,7 +3,8 @@
 Repositori ini berisi **dataset putusan pengadilan** dari **Pengadilan Negeri Pelaihari** yang berkaitan dengan perkara **Narkotika dan Psikotropika**. Dataset ini dikumpulkan dan disusun untuk mendukung penelitian dan pengembangan sistem **Information Retrieval for Legal Cases**, khususnya dalam konteks hukum pidana narkotika di Indonesia.
 
 
-Setiap file PDF merupakan dokumen resmi **putusan pengadilan** yang diperoleh dari sumber terbuka (website Pengadilan Negeri Pelaihari).  
+Setiap file PDF merupakan dokumen resmi **putusan pengadilan** yang diperoleh dari sumber terbuka (Website Direktori Putusan
+Mahkamah Agung RI).  
 File putusan mencakup elemen-elemen hukum seperti:
 - Identitas terdakwa  
 - Jenis tindak pidana  
@@ -15,7 +16,7 @@ File putusan mencakup elemen-elemen hukum seperti:
 ##  File Pendukung
 
 ### `Overview.xlsx`
-File ini berfungsi sebagai **rekapan metadata** dari setiap putusan yang ada dalam folder `Dataset/`.  
+File ini berfungsi sebagai **rekapan metadata** dari setiap putusan yang ada dalam folder `Overview/`.  
 Berisi kolom-kolom berikut:
 
 | Kolom | Deskripsi |
