@@ -1,4 +1,4 @@
-# 🧾 Dataset Putusan Pengadilan Negeri Pelaihari - Kasus Narkotika & Psikotropika
+#  Dataset Putusan Pengadilan Negeri Pelaihari - Kasus Narkotika & Psikotropika
 
 Repositori ini berisi **dataset putusan pengadilan** dari **Pengadilan Negeri Pelaihari** yang berkaitan dengan perkara **Narkotika dan Psikotropika**. Dataset ini dikumpulkan dan disusun untuk mendukung penelitian dan pengembangan sistem **Information Retrieval for Legal Cases**, khususnya dalam konteks hukum pidana narkotika di Indonesia.
 
@@ -12,7 +12,7 @@ File putusan mencakup elemen-elemen hukum seperti:
 - Amar putusan  
 
 
-## 📊 File Pendukung
+##  File Pendukung
 
 ### `Overview.xlsx`
 File ini berfungsi sebagai **rekapan metadata** dari setiap putusan yang ada dalam folder `Dataset/`.  
@@ -28,7 +28,7 @@ Berisi kolom-kolom berikut:
 
 ---
 
-## 🎯 Tujuan Dataset
+##  Tujuan Dataset
 
 Dataset ini disiapkan untuk:
 - Penelitian bidang **Legal Information Retrieval**  
